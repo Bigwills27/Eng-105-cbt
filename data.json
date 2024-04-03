@@ -1,0 +1,1861 @@
+[
+  {
+    "question": "What is the primary focus of Special Education?",
+    "a": "Addressing socio-economic disadvantages",
+    "b": "Providing support for gifted students",
+    "c": "Meeting the needs of students with disabilities",
+    "d": "Promoting cultural diversity",
+    "answer": "c"
+  },
+  {
+    "question": "Special Needs Education aims to:",
+    "a": "Address only physical disabilities",
+    "b": "Exclude students with learning difficulties",
+    "c": "Provide support for all students, regardless of disability status",
+    "d": "Focus solely on gifted students",
+    "answer": "c"
+  },
+  {
+    "question": "What distinguishes Special Needs Education from Special Education?",
+    "a": "Scope and approach",
+    "b": "Funding sources",
+    "c": "Geographical location",
+    "d": "Types of disabilities addressed",
+    "answer": "a"
+  },
+  {
+    "question": "Which classification of persons under special education may have sensory impairments?",
+    "a": "Impaired",
+    "b": "Disabled",
+    "c": "Disadvantaged",
+    "d": "None of the above",
+    "answer": "a"
+  },
+  {
+    "question": "Students classified as disadvantaged may face challenges related to:",
+    "a": "Socio-economic disadvantages",
+    "b": "Physical disabilities",
+    "c": "Intellectual giftedness",
+    "d": "None of the above",
+    "answer": "a"
+  },
+  {
+    "question": "What is the primary goal of Special Education?",
+    "a": "Promoting exclusivity in education",
+    "b": "Ensuring equal access to education for all students",
+    "c": "Segregating students with disabilities from mainstream education",
+    "d": "Providing support exclusively for gifted students",
+    "answer": "b"
+  },
+  {
+    "question": "Special Needs Education emphasizes:",
+    "a": "Segregating students based on disability status",
+    "b": "Excluding students with socio-economic disadvantages",
+    "c": "Addressing the diverse learning needs of all students",
+    "d": "Providing support only for students with physical disabilities",
+    "answer": "c"
+  },
+  {
+    "question": "Which aspect does Special Education primarily focus on?",
+    "a": "Cultural diversity",
+    "b": "Meeting the needs of students with disabilities",
+    "c": "Providing support exclusively for gifted students",
+    "d": "Addressing only socio-economic disadvantages",
+    "answer": "b"
+  },
+  {
+    "question": "Students classified as disabled may experience challenges related to:",
+    "a": "Giftedness",
+    "b": "Socio-economic status",
+    "c": "Physical, mental, or sensory impairments",
+    "d": "Cultural diversity",
+    "answer": "c"
+  },
+  {
+    "question": "Special Needs Education promotes:",
+    "a": "Exclusivity in education",
+    "b": "Inequitable access to resources",
+    "c": "Inclusive learning environments",
+    "d": "Segregation of students based on disability status",
+    "answer": "c"
+  },
+  {
+    "question": "Which category of individuals under special education may face challenges related to language barriers?",
+    "a": "Impaired",
+    "b": "Disabled",
+    "c": "Disadvantaged",
+    "d": "None of the above",
+    "answer": "c"
+  },
+  {
+    "question": "What distinguishes Special Education from Special Needs Education?",
+    "a": "Focus on socio-economic status",
+    "b": "Inclusivity in educational settings",
+    "c": "Addressing only physical disabilities",
+    "d": "Scope of educational needs addressed",
+    "answer": "d"
+  },
+  {
+    "question": "Special Education primarily aims to:",
+    "a": "Exclude students with disabilities",
+    "b": "Provide support for gifted students only",
+    "c": "Meet the unique needs of students with disabilities",
+    "d": "Focus solely on socio-economic advantages",
+    "answer": "c"
+  },
+  {
+    "question": "Special Needs Education takes into consideration:",
+    "a": "Socio-economic status only",
+    "b": "Disability status only",
+    "c": "All aspects affecting students' learning needs",
+    "d": "Cultural diversity exclusively",
+    "answer": "c"
+  },
+  {
+    "question": "Which classification of persons under special education may have intellectual disabilities?",
+    "a": "Impaired",
+    "b": "Disabled",
+    "c": "Disadvantaged",
+    "d": "None of the above",
+    "answer": "b"
+  },
+  {
+    "question": "What is the primary difference between Special Education and Special Needs Education?",
+    "a": "Types of disabilities addressed",
+    "b": "Socio-economic status of students",
+    "c": "Funding sources",
+    "d": "Inclusivity in educational practices",
+    "answer": "a"
+  },
+  {
+    "question": "Special Needs Education focuses on:",
+    "a": "Segregating students based on disability status",
+    "b": "Providing support exclusively for gifted students",
+    "c": "Addressing the diverse learning needs of all students",
+    "d": "Excluding students with socio-economic disadvantages",
+    "answer": "c"
+  },
+  {
+    "question": "Students classified as disadvantaged may require support related to:",
+    "a": "Physical disabilities",
+    "b": "Language barriers",
+    "c": "Giftedness",
+    "d": "None of the above",
+    "answer": "b"
+  },
+  {
+    "question": "What is the primary focus of Special Needs Education?",
+    "a": "Segregating students based on disability status",
+    "b": "Providing support for gifted students",
+    "c": "Addressing the diverse learning needs of all students",
+    "d": "Excluding students with socio-economic disadvantages",
+    "answer": "c"
+  },
+  {
+    "question": "Which aspect does Special Education primarily address?",
+    "a": "Socio-economic disadvantages",
+    "b": "Cultural diversity",
+    "c": "Meeting the needs of students with disabilities",
+    "d": "Providing support exclusively for gifted students",
+    "answer": "c"
+  },
+
+  {
+    "question": "According to Edgar Doll, what are the six criteria for classifying someone as having mental retardation?",
+    "a": "Subnormality, social competence, delayed maturity, constitutional origin, curability, high intelligence",
+    "b": "Physical disability, emotional instability, high intelligence, early onset, treatable cause, adaptability",
+    "c": "Subnormality, social incompetence, delayed onset, constitutional origin, incurability, retardation at maturity",
+    "d": "High intelligence, adaptability, delayed onset, social competence, early intervention, constitutional origin",
+    "answer": "c"
+  },
+  {
+    "question": "According to Grossman (1983), what is mental retardation characterized by?",
+    "a": "High intelligence and low academic achievement",
+    "b": "Sub-average general intellectual functioning and deficits in adaptive behavior",
+    "c": "Average intelligence and high academic achievement",
+    "d": "Above-average intellectual functioning and social competence",
+    "answer": "b"
+  },
+  {
+    "question": "What is the estimated prevalence of mental retardation in the US according to U.S. Department of Education (2002)?",
+    "a": "3% of the general population",
+    "b": "10.6% of all school-age children",
+    "c": "1% of the total school-age population",
+    "d": "20% of the general population",
+    "answer": "c"
+  },
+  {
+    "question": "What are examples of prenatal causes of mental retardation?",
+    "a": "Premature delivery, umbilical cord accidents, head trauma at birth",
+    "b": "Chromosomal disorders, malnutrition by mother, excessive exposure to x-ray",
+    "c": "Head injury, infections, toxic metabolic disorders",
+    "d": "Respiratory disorders, intracranial hemorrhage, neonatal seizures",
+    "answer": "b"
+  },
+  {
+    "question": "What are examples of postnatal causes of mental retardation?",
+    "a": "Premature delivery, umbilical cord accidents, head trauma at birth",
+    "b": "Chromosomal disorders, malnutrition by mother, excessive exposure to x-ray",
+    "c": "Head injury, infections, toxic metabolic disorders",
+    "d": "Respiratory disorders, intracranial hemorrhage, neonatal seizures",
+    "answer": "c"
+  },
+  {
+    "question": "What educational/intellectual characteristics are outlined for persons with mental retardation?",
+    "a": "Easily distracted, temper tantrums, physical abnormalities",
+    "b": "Difficulty in remembering information, short attention span, slow learning",
+    "c": "High academic achievement, problem-solving skills, generalization ability",
+    "d": "Good computation ability, interest in learning, social competence",
+    "answer": "b"
+  },
+  {
+    "question": "Under British Classification, what are the categories of mental retardation?",
+    "a": "Mild, moderate, severe, profound",
+    "b": "Totally dependent, trainable, educable",
+    "c": "Idiot, imbecile, moron",
+    "d": "Profound, severe, moderate, mild",
+    "answer": "d"
+  },
+  {
+    "question": "According to AAMR (2002), what characterizes mental retardation?",
+    "a": "Above-average intellectual functioning and high social skills",
+    "b": "Significant limitations in intellectual functioning and adaptive skills",
+    "c": "Average intelligence and limited social skills",
+    "d": "Below-average intellectual functioning and no social skills",
+    "answer": "b"
+  },
+  {
+    "question": "What is the primary objective of special education?",
+    "a": "To segregate students with disabilities",
+    "b": "To provide customized instruction and support to individuals with exceptional needs",
+    "c": "To enforce standardized testing for all students",
+    "d": "To prioritize academic achievement over social development",
+    "answer": "b"
+  },
+  {
+    "question": "How does special education differ from general education?",
+    "a": "Special education provides a one-size-fits-all approach to instruction.",
+    "b": "Special education focuses solely on academic achievement.",
+    "c": "Special education offers individualized support for students with disabilities.",
+    "d": "Special education excludes students with learning difficulties.",
+    "answer": "c"
+  },
+  {
+    "question": "Which term refers to a range of educational services for individuals with disabilities?",
+    "a": "General education",
+    "b": "Inclusive education",
+    "c": "Special education",
+    "d": "Remedial education",
+    "answer": "c"
+  },
+  {
+    "question": "What does special needs education encompass?",
+    "a": "Only formal schooling",
+    "b": "Various support systems beyond the classroom",
+    "c": "Only vocational training",
+    "d": "Only community-based services",
+    "answer": "b"
+  },
+  {
+    "question": "Who falls under the category of \"disabled\" in special education?",
+    "a": "Individuals with low academic performance",
+    "b": "Individuals with socio-economic disadvantages",
+    "c": "Individuals with physical, sensory, or intellectual disabilities",
+    "d": "Individuals with high cognitive abilities",
+    "answer": "c"
+  },
+  {
+    "question": "What barriers do disadvantaged students face in education?",
+    "a": "Socio-economic, environmental, or cultural barriers",
+    "b": "Lack of interest in learning",
+    "c": "Lack of parental involvement",
+    "d": "Overemphasis on standardized testing",
+    "answer": "a"
+  },
+  {
+    "question": "What defines gifted and talented students?",
+    "a": "High academic performance in all subjects",
+    "b": "Exceptional abilities or talents in one or more areas",
+    "c": "High socio-economic status",
+    "d": "Participation in extracurricular activities",
+    "answer": "b"
+  },
+  {
+    "question": "How do special education services support students with disabilities?",
+    "a": "By providing standardized instruction to all students",
+    "b": "By offering individualized instruction and accommodations",
+    "c": "By segregating students from mainstream classrooms",
+    "d": "By ignoring students' diverse learning needs",
+    "answer": "b"
+  },
+  {
+    "question": "Which factor contributes to the classification of disadvantaged students?",
+    "a": "Low academic achievement",
+    "b": "High cognitive abilities",
+    "c": "Limited access to resources and opportunities",
+    "d": "Participation in extracurricular activities",
+    "answer": "c"
+  },
+  {
+    "question": "What intervention is provided for gifted and talented students?",
+    "a": "Remedial instruction",
+    "b": "Standardized testing",
+    "c": "Enrichment and advanced learning opportunities",
+    "d": "Segregation from mainstream classrooms",
+    "answer": "c"
+  },
+  {
+    "question": "What is the primary purpose of special needs education?",
+    "a": "To separate students with disabilities from mainstream education",
+    "b": "To provide support and accommodations to students with diverse needs",
+    "c": "To prioritize academic excellence over social inclusion",
+    "d": "To limit educational opportunities for disadvantaged students",
+    "answer": "b"
+  },
+  {
+    "question": "Which term refers to individuals who face socio-economic barriers in education?",
+    "a": "Disabled",
+    "b": "Disadvantaged",
+    "c": "Gifted",
+    "d": "Talented",
+    "answer": "b"
+  },
+  {
+    "question": "How do special education and special needs education differ?",
+    "a": "Special education is only for individuals with physical disabilities, while special needs education is for individuals with intellectual disabilities.",
+    "b": "Special education focuses solely on academics, while special needs education addresses various aspects of students' lives.",
+    "c": "Special education provides standardized instruction, while special needs education offers individualized support.",
+    "d": "Special education is exclusively for gifted students, while special needs education is for students with learning disabilities.",
+    "answer": "b"
+  },
+  {
+    "question": "Who is considered a \"disadvantaged\" student in the context of education?",
+    "a": "A student with a learning disability",
+    "b": "A student from a low-income family",
+    "c": "A student with exceptional academic abilities",
+    "d": "A student with a physical disability",
+    "answer": "b"
+  },
+  {
+    "question": "What role do genetic factors play in the development of disabilities?",
+    "a": "They have no impact on disabilities",
+    "b": "They play a significant role, including inherited genetic mutations and chromosomal abnormalities",
+    "c": "They only affect physical disabilities",
+    "d": "They are solely responsible for environmental disabilities",
+    "answer": "b"
+  },
+  {
+    "question": "Which environmental factors can contribute to the development of disabilities?",
+    "a": "Exposure to sunlight",
+    "b": "Lack of physical activity",
+    "c": "Exposure to toxins, pollutants, drugs, and infections",
+    "d": "Access to prenatal care",
+    "answer": "c"
+  },
+  {
+    "question": "What are examples of genetic disabilities?",
+    "a": "Arthritis and diabetes",
+    "b": "Down syndrome and muscular dystrophy",
+    "c": "Broken bones and sprains",
+    "d": "Common cold and flu",
+    "answer": "b"
+  },
+  {
+    "question": "Which medical conditions can lead to disabilities?",
+    "a": "Seasonal allergies",
+    "b": "Traumatic brain injury and multiple sclerosis",
+    "c": "Minor cuts and bruises",
+    "d": "Temporary cold symptoms",
+    "answer": "b"
+  },
+  {
+    "question": "What types of injuries can cause disabilities?",
+    "a": "Skin rashes",
+    "b": "Repetitive stress injuries and occupational hazards",
+    "c": "Minor cuts and scrapes",
+    "d": "Sprained ankles",
+    "answer": "b"
+  },
+  {
+    "question": "Why is understanding the etiology of disabilities important?",
+    "a": "It has no impact on prevention or intervention efforts",
+    "b": "It helps in prevention, early intervention, and providing appropriate support and services",
+    "c": "It is irrelevant to addressing underlying factors",
+    "d": "It only affects individuals with disabilities",
+    "answer": "b"
+  },
+  {
+    "question": "Which factor is not considered a cause of disabilities?",
+    "a": "Environmental factors",
+    "b": "Medical conditions",
+    "c": "Injury and trauma",
+    "d": "Genetic factors",
+    "answer": "a"
+  },
+  {
+    "question": "What role do injury and trauma play in the onset of disabilities?",
+    "a": "They have no impact on disabilities",
+    "b": "They can cause physical disabilities, cognitive impairments, and psychological trauma",
+    "c": "They only affect sensory deficits",
+    "d": "They are not a significant factor in disability development",
+    "answer": "b"
+  },
+  {
+    "question": "What is the primary goal of understanding the causes of disabilities?",
+    "a": "To ignore individuals with disabilities",
+    "b": "To promote health, accessibility, and inclusion",
+    "c": "To isolate individuals with disabilities",
+    "d": "To stigmatize individuals with disabilities",
+    "answer": "b"
+  },
+  {
+    "question": "How can society work towards promoting health and inclusion for individuals with disabilities?",
+    "a": "By neglecting prevention efforts",
+    "b": "By addressing underlying genetic, environmental, medical, and injury-related factors",
+    "c": "By excluding individuals with disabilities from society",
+    "d": "By promoting stigma and discrimination",
+    "answer": "b"
+  },
+  {
+    "question": "How do special education programs cater to students with disabilities?",
+    "a": "By providing a one-size-fits-all approach to instruction",
+    "b": "By offering individualized instruction and support tailored to each student's needs",
+    "c": "By segregating students with disabilities from their peers",
+    "d": "By focusing solely on academic achievement",
+    "answer": "b"
+  },
+  {
+    "question": "What distinguishes gifted and talented students?",
+    "a": "They have low academic performance.",
+    "b": "They come from affluent families.",
+    "c": "They demonstrate exceptional abilities or talents in specific areas.",
+    "d": "They require remedial instruction.",
+    "answer": "c"
+  },
+  {
+    "question": "How does special needs education support individuals with disabilities?",
+    "a": "By ignoring their unique needs and challenges",
+    "b": "By providing specialized services and accommodations",
+    "c": "By isolating them from mainstream educational settings",
+    "d": "By focusing solely on academic achievement",
+    "answer": "b"
+  },
+  {
+    "question": "What challenges do disadvantaged students often face in education?",
+    "a": "Lack of motivation to learn",
+    "b": "Limited access to resources and opportunities",
+    "c": "High academic performance",
+    "d": "Strong family support",
+    "answer": "b"
+  },
+  {
+    "question": "What is the purpose of a special school for children with mental retardation?",
+    "a": "To integrate them with regular school students",
+    "b": "To provide specialized education in a separate environment",
+    "c": "To offer resources for all students in the community",
+    "d": "To promote social interaction with children of all abilities",
+    "answer": "b"
+  },
+  {
+    "question": "What distinguishes a special class from a regular classroom?",
+    "a": "The curriculum is tailored to individual students' needs",
+    "b": "Students interact only with other children with mental retardation",
+    "c": "It is located in a separate building from the regular school",
+    "d": "Students with mental retardation are taught in the same classroom as others",
+    "answer": "b"
+  },
+  {
+    "question": "What is the function of a resource room in a school?",
+    "a": "To provide regular education to all students",
+    "b": "To segregate students with mental retardation from others",
+    "c": "To offer specialized attention to students with mental retardation",
+    "d": "To serve as a recreational area for students",
+    "answer": "c"
+  },
+  {
+    "question": "What distinguishes an itinerant teacher from regular teachers?",
+    "a": "They work in a separate school for children with mental retardation",
+    "b": "They provide specialized education only during specific hours",
+    "c": "They are not qualified to teach children with mental retardation",
+    "d": "They have no fixed schedule and come and go as they please",
+    "answer": "b"
+  },
+  {
+    "question": "What characterizes inclusive education?",
+    "a": "Segregation of children with exceptional needs from others",
+    "b": "Integration of all students regardless of abilities",
+    "c": "Exclusive focus on children with mental retardation",
+    "d": "Specialized instruction in a separate school",
+    "answer": "b"
+  },
+  {
+    "question": "What is the most current program of education recommendation for children with exceptional needs?",
+    "a": "Resource room",
+    "b": "Special class",
+    "c": "Inclusive education",
+    "d": "Itinerant teacher",
+    "answer": "c"
+  },
+  {
+    "question": "What term is used to describe individuals who have more than one significant disability?",
+    "a": "Single Disability",
+    "b": "Multiple Disabilities",
+    "c": "Complex Disabilities",
+    "d": "Severe Disabilities",
+    "answer": "b"
+  },
+  {
+    "question": "Which of the following is NOT a category of disabilities that may coexist in individuals with multiple disabilities?",
+    "a": "Physical disabilities",
+    "b": "Cognitive disabilities",
+    "c": "Social disabilities",
+    "d": "Sensory disabilities",
+    "answer": "c"
+  },
+  {
+    "question": "What are some common characteristics of individuals with multiple disabilities?",
+    "a": "High academic achievement",
+    "b": "Limited mobility and physical independence",
+    "c": "Excellent social skills",
+    "d": "Advanced communication abilities",
+    "answer": "b"
+  },
+  {
+    "question": "Which of the following is NOT a common combination of disabilities seen in individuals with multiple disabilities?",
+    "a": "Intellectual disability and physical disability",
+    "b": "Autism spectrum disorder and sensory impairments",
+    "c": "Traumatic brain injury and emotional/behavioral disorders",
+    "d": "Speech impairment and hearing impairment",
+    "answer": "d"
+  },
+  {
+    "question": "What is an effective educational strategy for individuals with limited verbal abilities?",
+    "a": "Multisensory instruction",
+    "b": "Functional life skills training",
+    "c": "Assistive technology and adaptive equipment",
+    "d": "Augmentative and alternative communication (AAC)",
+    "answer": "d"
+  },
+  {
+    "question": "What approach involves involving a multidisciplinary team of educators, therapists, specialists, and parents/caregivers?",
+    "a": "Individualized Education Plan (IEP)",
+    "b": "Functional life skills training",
+    "c": "Collaborative team approach",
+    "d": "Assistive technology and adaptive equipment",
+    "answer": "c"
+  },
+  {
+    "question": "What is the purpose of augmentative and alternative communication (AAC) for individuals with multiple disabilities?",
+    "a": "To develop academic skills",
+    "b": "To promote independence in daily living skills",
+    "c": "To facilitate communication for those with limited verbal abilities",
+    "d": "To improve social skills",
+    "answer": "c"
+  },
+  {
+    "question": "Which of the following is NOT a characteristic of individuals with multiple disabilities?",
+    "a": "Learning difficulties",
+    "b": "Limited mobility",
+    "c": "Advanced cognitive abilities",
+    "d": "Sensory sensitivities",
+    "answer": "c"
+  },
+
+  {
+    "question": "What is an example of a sensory disability that may coexist with other disabilities in individuals with multiple disabilities?",
+    "a": "Blurred vision",
+    "b": "High academic achievement",
+    "c": "Excellent social skills",
+    "d": "Advanced communication abilities",
+    "answer": "a"
+  },
+  {
+    "question": "What type of plan outlines specific goals, accommodations, and services to support the learning and development of individuals with multiple disabilities?",
+    "a": "Functional life skills plan",
+    "b": "Collaborative team approach",
+    "c": "Individualized Education Plan (IEP)",
+    "d": "Multisensory instruction plan",
+    "answer": "c"
+  },
+
+  {
+    "question": "What is the primary aim of preventive measures for mental retardation?",
+    "a": "To cure existing cases of mental retardation",
+    "b": "To provide better treatment for individuals with mental retardation",
+    "c": "To prevent the occurrence of mental retardation",
+    "d": "To increase awareness about mental retardation",
+    "answer": "c"
+  },
+  {
+    "question": "What term is used to describe individuals who have more than one significant disability?",
+    "a": "Single Disability",
+    "b": "Multiple Disabilities",
+    "c": "Complex Disabilities",
+    "d": "Severe Disabilities",
+    "answer": "b"
+  },
+  {
+    "question": "Which of the following is NOT a category of disabilities that may coexist in individuals with multiple disabilities?",
+    "a": "Physical disabilities",
+    "b": "Cognitive disabilities",
+    "c": "Social disabilities",
+    "d": "Sensory disabilities",
+    "answer": "c"
+  },
+  {
+    "question": "What are some common characteristics of individuals with multiple disabilities?",
+    "a": "High academic achievement",
+    "b": "Limited mobility and physical independence",
+    "c": "Excellent social skills",
+    "d": "Advanced communication abilities",
+    "answer": "b"
+  },
+  {
+    "question": "Which of the following is NOT a common combination of disabilities seen in individuals with multiple disabilities?",
+    "a": "Intellectual disability and physical disability",
+    "b": "Autism spectrum disorder and sensory impairments",
+    "c": "Traumatic brain injury and emotional/behavioral disorders",
+    "d": "Speech impairment and hearing impairment",
+    "answer": "d"
+  },
+  {
+    "question": "What is an effective educational strategy for individuals with limited verbal abilities?",
+    "a": "Multisensory instruction",
+    "b": "Functional life skills training",
+    "c": "Assistive technology and adaptive equipment",
+    "d": "Augmentative and alternative communication (AAC)",
+    "answer": "d"
+  },
+  {
+    "question": "What approach involves involving a multidisciplinary team of educators, therapists, specialists, and parents/caregivers?",
+    "a": "Individualized Education Plan (IEP)",
+    "b": "Functional life skills training",
+    "c": "Collaborative team approach",
+    "d": "Assistive technology and adaptive equipment",
+    "answer": "c"
+  },
+  {
+    "question": "What is the purpose of augmentative and alternative communication (AAC) for individuals with multiple disabilities?",
+    "a": "To develop academic skills",
+    "b": "To promote independence in daily living skills",
+    "c": "To facilitate communication for those with limited verbal abilities",
+    "d": "To improve social skills",
+    "answer": "c"
+  },
+  {
+    "question": "Which of the following is NOT a characteristic of individuals with multiple disabilities?",
+    "a": "Learning difficulties",
+    "b": "Limited mobility",
+    "c": "Advanced cognitive abilities",
+    "d": "Sensory sensitivities",
+    "answer": "c"
+  },
+  {
+    "question": "What is the primary cause of albinism?",
+    "a": "Excessive melanin production",
+    "b": "Genetic mutations affecting melanin production",
+    "c": "Sun exposure",
+    "d": "Dietary factors",
+    "answer": "b"
+  },
+  {
+    "question": "Which type of albinism primarily affects the eyes and is characterized by reduced pigmentation in the iris and retina?",
+    "a": "Oculocutaneous Albinism (OCA)",
+    "b": "Ocular Albinism (OA)",
+    "c": "Hermansky-Pudlak Syndrome (HPS)",
+    "d": "Chediak-Higashi Syndrome (CHS)",
+    "answer": "b"
+  },
+  {
+    "question": "How is albinism typically inherited?",
+    "a": "Autosomal dominant pattern",
+    "b": "X-linked recessive pattern",
+    "c": "Autosomal recessive pattern",
+    "d": "Mitochondrial inheritance",
+    "answer": "c"
+  },
+  {
+    "question": "What is a common physical characteristic of individuals with albinism?",
+    "a": "Dark skin",
+    "b": "Black hair",
+    "c": "Light-colored eyes",
+    "d": "Excessive melanin pigment",
+    "answer": "c"
+  },
+  {
+    "question": "What health implication is associated with albinism?",
+    "a": "Decreased risk of skin cancer",
+    "b": "Increased risk of skin cancer from sun exposure",
+    "c": "High tolerance to sunlight",
+    "d": "Reduced susceptibility to sunburn",
+    "answer": "b"
+  },
+  {
+    "question": "What type of accommodations may be provided to support visual functioning for individuals with albinism?",
+    "a": "Assistive technology and magnification devices",
+    "b": "Darkened rooms",
+    "c": "Small print materials",
+    "d": "Bright lighting",
+    "answer": "a"
+  },
+  {
+    "question": "How can educators promote positive self-esteem for individuals with albinism?",
+    "a": "Providing harsh feedback about appearance",
+    "b": "Fostering a supportive and inclusive school environment",
+    "c": "Ignoring their unique needs",
+    "d": "Encouraging isolation from peers",
+    "answer": "b"
+  },
+  {
+    "question": "What is the purpose of environmental modifications for individuals with albinism?",
+    "a": "To increase glare and discomfort",
+    "b": "To minimize glare and control lighting conditions",
+    "c": "To exacerbate photophobia",
+    "d": "To limit access to resources",
+    "answer": "b"
+  },
+  {
+    "question": "Which syndrome is associated with albinism as well as other health issues such as bleeding disorders and immune system abnormalities?",
+    "a": "Oculocutaneous Albinism (OCA)",
+    "b": "Ocular Albinism (OA)",
+    "c": "Hermansky-Pudlak Syndrome (HPS)",
+    "d": "Chediak-Higashi Syndrome (CHS)",
+    "answer": "c"
+  },
+  {
+    "question": "What collaborative approach is recommended for supporting individuals with albinism in educational settings?",
+    "a": "Working in isolation from other professionals",
+    "b": "Avoiding communication with parents",
+    "c": "Collaborating with parents, educators, and vision specialists",
+    "d": "Disregarding the individual's unique needs",
+    "answer": "c"
+  },
+  {
+    "question": "What is an example of a sensory disability that may coexist with other disabilities in individuals with multiple disabilities?",
+    "a": "Blurred vision",
+    "b": "High academic achievement",
+    "c": "Excellent social skills",
+    "d": "Advanced communication abilities",
+    "answer": "a"
+  },
+  {
+    "question": "What type of plan outlines specific goals, accommodations, and services to support the learning and development of individuals with multiple disabilities?",
+    "a": "Functional life skills plan",
+    "b": "Collaborative team approach",
+    "c": "Individualized Education Plan (IEP)",
+    "d": "Multisensory instruction plan",
+    "answer": "c"
+  },
+  {
+    "question": "Which of the following is NOT a preventive measure for mental retardation?",
+    "a": "Dissemination of information about childhood accidents",
+    "b": "Provision of balanced diet to expectant mothers and children",
+    "c": "Mandating blood compatibility test before marriage",
+    "d": "Separating children with mental retardation from regular schools",
+    "answer": "d"
+  },
+  {
+    "question": "What measure should be taken regarding expectant mothers and children to prevent mental retardation?",
+    "a": "Provide excessive drug use",
+    "b": "Encourage self-medication",
+    "c": "Ensure they are properly fed with a balanced diet",
+    "d": "Promote exposure to x-ray examination",
+    "answer": "c"
+  },
+  {
+    "question": "What is the significance of community-based genetic counseling and diagnostic centers?",
+    "a": "To prevent genetic disorders",
+    "b": "To promote genetic experimentation",
+    "c": "To encourage excessive drug use",
+    "d": "To control the use of fake drugs",
+    "answer": "a"
+  },
+  {
+    "question": "A person is involved in a car accident and suffers from brain damage due to impact with the steering wheel. What type of injury is this?",
+    "a": "Penetrating Head Injury",
+    "b": "Sprained wrist",
+    "c": "Chest pain",
+    "d": "Blurred vision",
+    "answer": "a"
+  },
+  {
+    "question": "After being hit in the head with a baseball bat, a child experiences memory loss and difficulty concentrating. What type of injury is this most likely to be?",
+    "a": "Broken nose",
+    "b": "Concussion",
+    "c": "Toothache",
+    "d": "Back pain",
+    "answer": "b"
+  },
+  {
+    "question": "A person sustains an injury to the brain due to shrapnel from an explosion. What type of injury is this?",
+    "a": "Traumatic Brain Injury",
+    "b": "Heatstroke",
+    "c": "Fractured skull",
+    "d": "Frostbite",
+    "answer": "a"
+  },
+  {
+    "question": "During a bicycle accident, a child's head hits the pavement. What type of injury is this?",
+    "a": "Concussion",
+    "b": "Broken arm",
+    "c": "Sore throat",
+    "d": "Sunburn",
+    "answer": "a"
+  },
+  {
+    "question": "A person slips and falls on the ice, hitting their head on the ground. What type of injury could this cause?",
+    "a": "Bruised knee",
+    "b": "Concussion",
+    "c": "Sore wrist",
+    "d": "Stomach ache",
+    "answer": "b"
+  },
+  {
+    "question": "While playing soccer, a player collides with another player and hits their head on the goalpost. What type of injury is this?",
+    "a": "Broken ankle",
+    "b": "Traumatic Brain Injury",
+    "c": "Sunburn",
+    "d": "Sore throat",
+    "answer": "b"
+  },
+  {
+    "question": "A construction worker is hit on the head by a falling object. What type of injury could this cause?",
+    "a": "Concussion",
+    "b": "Food poisoning",
+    "c": "Blurred vision",
+    "d": "Sunburn",
+    "answer": "a"
+  },
+  {
+    "question": "During a skiing accident, a person hits their head on a tree. What type of injury is this?",
+    "a": "Broken leg",
+    "b": "Traumatic Brain Injury",
+    "c": "Sore throat",
+    "d": "Sunburn",
+    "answer": "b"
+  },
+  {
+    "question": "What effect can impaired vision have on individuals?",
+    "a": "It only affects physical development",
+    "b": "It has no effect on cognitive development",
+    "c": "It can affect physical, neurological, cognitive, and emotional development",
+    "d": "It primarily affects emotional development",
+    "answer": "c"
+  },
+  {
+    "question": "How is visual impairment defined?",
+    "a": "As the total loss of vision",
+    "b": "As the inability to see objects within 20 feet",
+    "c": "As the inability to read or write after optical correction",
+    "d": "As the inability to use Braille as a medium of reading and writing",
+    "answer": "c"
+  },
+  {
+    "question": "What distinguishes people with low vision from those who are totally visually impaired?",
+    "a": "Those with low vision can read, write, or print with optical correction",
+    "b": "Those with low vision use Braille as their primary means of communication",
+    "c": "Those with low vision cannot see objects at a distance of 20 feet",
+    "d": "Those with low vision have no vision at all",
+    "answer": "a"
+  },
+  {
+    "question": "What visual acuity characterizes people who are partially sighted?",
+    "a": "20/200",
+    "b": "20/70",
+    "c": "20/20",
+    "d": "20/10",
+    "answer": "b"
+  },
+  {
+    "question": "What visual impairment condition results in distant objects being out of focus?",
+    "a": "Hyperopia",
+    "b": "Astigmatism",
+    "c": "Myopia",
+    "d": "Presbyopia",
+    "answer": "c"
+  },
+  {
+    "question": "Which condition causes distant objects to be seen clearly but closer objects appear blurred?",
+    "a": "Astigmatism",
+    "b": "Presbyopia",
+    "c": "Myopia",
+    "d": "Hyperopia",
+    "answer": "d"
+  },
+  {
+    "question": "What is the main characteristic of presbyopia?",
+    "a": "Difficulty in seeing distant objects",
+    "b": "Blurred vision when reading",
+    "c": "Difficulty in seeing close objects",
+    "d": "Blurred vision of distant and close objects",
+    "answer": "c"
+  },
+  {
+    "question": "Which of the following is NOT a cause of visual impairment during the pre-natal period?",
+    "a": "German measles infection during the first three months of gestation",
+    "b": "Bleeding from the genital tract during pregnancy",
+    "c": "Delayed labor",
+    "d": "Hereditary factors like albinism",
+    "answer": "c"
+  },
+  {
+    "question": "What can cause traumatic pain to both mother and child during delivery?",
+    "a": "Delayed labor",
+    "b": "Wrong use of forceps",
+    "c": "Malpositioning of the child",
+    "d": "Retrolental fibroplasias",
+    "answer": "b"
+  },
+  {
+    "question": "Which condition can result in undue/severe pressure on the eyeball?",
+    "a": "Cataract",
+    "b": "Malnutrition",
+    "c": "Glaucoma",
+    "d": "Diabetes",
+    "answer": "c"
+  },
+  {
+    "question": "How might impaired vision affect a student's performance in school?",
+    "a": "It may have no effect on academic performance",
+    "b": "It could result in difficulties reading material from the chalkboard",
+    "c": "It only affects social interactions",
+    "d": "It enhances problem-solving abilities",
+    "answer": "b"
+  },
+  {
+    "question": "What challenges might individuals with visual impairment face in a workplace environment?",
+    "a": "They may have no challenges in a workplace",
+    "b": "Difficulty in reading documents or computer screens",
+    "c": "They excel in all workplace tasks",
+    "d": "They do not require any accommodations",
+    "answer": "b"
+  },
+  {
+    "question": "How can society improve accessibility for individuals with visual impairment?",
+    "a": "By ignoring their needs",
+    "b": "By providing accessible formats for written materials",
+    "c": "By segregating them from the rest of the community",
+    "d": "By discouraging them from participating in social activities",
+    "answer": "b"
+  },
+  {
+    "question": "What assistance might individuals with visual impairment require when navigating public spaces?",
+    "a": "None, as they are fully independent",
+    "b": "Guide dogs or white canes",
+    "c": "Sign language interpreters",
+    "d": "Visual aids",
+    "answer": "b"
+  },
+  {
+    "question": "How can technology assist individuals with visual impairment in their daily lives?",
+    "a": "It cannot assist them in any way",
+    "b": "By providing screen reader software for computers and smartphones",
+    "c": "By limiting their access to information",
+    "d": "By increasing their isolation from society",
+    "answer": "b"
+  },
+  {
+    "question": "What adaptations might be necessary in a home environment to accommodate someone with visual impairment?",
+    "a": "None, as they do not require any special accommodations",
+    "b": "Installing tactile markers or braille labels",
+    "c": "Removing all obstacles from the home",
+    "d": "Using only dim lighting to prevent strain on their eyes",
+    "answer": "b"
+  },
+  {
+    "question": "How can individuals with visual impairment participate in recreational activities?",
+    "a": "They cannot participate in recreational activities",
+    "b": "By engaging in activities adapted for their needs, such as tactile games or audio books",
+    "c": "By avoiding recreational activities altogether",
+    "d": "By relying solely on their sense of touch",
+    "answer": "b"
+  },
+  {
+    "question": "What role can community support groups play in the lives of individuals with visual impairment?",
+    "a": "They have no impact on the lives of individuals with visual impairment",
+    "b": "They provide emotional support and resources",
+    "c": "They ostracize individuals with visual impairment",
+    "d": "They discourage independence and self-advocacy",
+    "answer": "b"
+  },
+  {
+    "question": "How might transportation systems be made more accessible for individuals with visual impairment?",
+    "a": "By providing only visual cues for navigation",
+    "b": "By offering audio announcements and tactile signage",
+    "c": "By excluding individuals with visual impairment from using public transportation",
+    "d": "By removing all accessibility features",
+    "answer": "b"
+  },
+  {
+    "question": "What educational resources might be beneficial for students with visual impairment?",
+    "a": "Printed textbooks with no alternative formats",
+    "b": "Braille textbooks and accessible digital materials",
+    "c": "No educational resources are necessary",
+    "d": "Visual aids exclusively",
+    "answer": "b"
+  },
+  {
+    "question": "What are some signs that a student may have visual impairment?",
+    "a": "Completing long reading assignments with ease",
+    "b": "Confusing letters and words that look similar",
+    "c": "Skipping lines while reading",
+    "d": "Writing very neatly and legibly",
+    "answer": "b"
+  },
+  {
+    "question": "How can educators support visually impaired students in the classroom?",
+    "a": "By ignoring their needs and treating them like other students",
+    "b": "By providing specialized materials such as braille or large print",
+    "c": "By excluding them from group activities",
+    "d": "By not making any accommodations",
+    "answer": "b"
+  },
+  {
+    "question": "What types of educational programs are available for visually impaired students in Nigeria?",
+    "a": "Only special schools",
+    "b": "Special schools, integrated schools, and inclusive education",
+    "c": "Only integrated schools",
+    "d": "Inclusive education only",
+    "answer": "b"
+  },
+  {
+    "question": "What role do teachers of visually impaired students play?",
+    "a": "They have no specific role",
+    "b": "They provide direct instruction and prepare specialized materials",
+    "c": "They do not communicate with parents or other educators",
+    "d": "They discourage inclusion of visually impaired students",
+    "answer": "b"
+  },
+  {
+    "question": "How can visual impairment be prevented in society?",
+    "a": "By promoting self-medication",
+    "b": "By educating the public about its causes and effects",
+    "c": "By avoiding regular eye examinations",
+    "d": "By using spectacles without specialist recommendation",
+    "answer": "b"
+  },
+  {
+    "question": "What steps can individuals take to prevent trachoma disease?",
+    "a": "By keeping the environment clean and avoiding overcrowding",
+    "b": "By ignoring any symptoms of the disease",
+    "c": "By not seeking treatment from specialists",
+    "d": "By promoting self-medication",
+    "answer": "a"
+  },
+  {
+    "question": "Why is it important for visually impaired students to receive early education?",
+    "a": "To reinforce their dependence on others",
+    "b": "To overcome emotional problems associated with the disability",
+    "c": "To isolate them from society",
+    "d": "To discourage them from participating in academic activities",
+    "answer": "b"
+  },
+  {
+    "question": "What educational resources should be provided for visually impaired students?",
+    "a": "Only printed textbooks with no alternative formats",
+    "b": "Braille textbooks and accessible digital materials",
+    "c": "No educational resources are necessary",
+    "d": "Visual aids exclusively",
+    "answer": "b"
+  },
+  {
+    "question": "How can parents and educators help prevent visual impairment?",
+    "a": "By promoting self-medication",
+    "b": "By seeking regular eye examinations",
+    "c": "By avoiding reporting symptoms to specialists",
+    "d": "By using spectacles without specialist recommendation",
+    "answer": "b"
+  },
+  {
+    "question": "What are some physical signs that may indicate visual impairment?",
+    "a": "Rubbing or brushing eyes frequently",
+    "b": "Writing unusually large characters",
+    "c": "Covering or scratching both eyes while reading",
+    "d": "Appearing energetic and eager to participate in play",
+    "answer": "a"
+  },
+  {
+    "question": "Which of the following is NOT a sign of visual impairment?",
+    "a": "Writing unusually small characters",
+    "b": "Covering or scratching one eye while reading",
+    "c": "Completing reading assignments quickly and easily",
+    "d": "Failing to copy from textbooks or blackboards",
+    "answer": "c"
+  },
+  {
+    "question": "What is the mid-point between normal sight and blindness called?",
+    "a": "Total visual impairment",
+    "b": "Low vision",
+    "c": "Partial blindness",
+    "d": "Hyperopia",
+    "answer": "b"
+  },
+  {
+    "question": "Which of the following eye conditions results in the inability to accommodate near objects?",
+    "a": "Myopia",
+    "b": "Hyperopia",
+    "c": "Astigmatism",
+    "d": "Presbyopia",
+    "answer": "d"
+  },
+  {
+    "question": "How is myopia corrected?",
+    "a": "With spectacles containing a convex lens",
+    "b": "With spectacles containing a concave lens",
+    "c": "With spectacles containing a plano lens",
+    "d": "With spectacles containing a cylindrical lens",
+    "answer": "b"
+  },
+  {
+    "question": "What is the primary cause of visual impairment in premature babies?",
+    "a": "Retrolental fibroplasia",
+    "b": "Cataracts",
+    "c": "Astigmatism",
+    "d": "Trachoma disease",
+    "answer": "a"
+  },
+  {
+    "question": "Which of the following educational programs is NOT available for visually impaired students in Nigeria?",
+    "a": "Special schools",
+    "b": "Integrated schools",
+    "c": "Inclusive education",
+    "d": "Resource rooms",
+    "answer": "d"
+  },
+  {
+    "question": "What role do parents play in preventing visual impairment?",
+    "a": "Promoting regular eye examinations",
+    "b": "Encouraging self-medication",
+    "c": "Ignoring symptoms of eye problems",
+    "d": "Using spectacles without specialist recommendation",
+    "answer": "a"
+  },
+  {
+    "question": "Which of the following is NOT a role of teachers of visually impaired students?",
+    "a": "Providing specialized materials",
+    "b": "Communicating with parents and other educators",
+    "c": "Encouraging exclusion of visually impaired students",
+    "d": "Instructing students directly within the classroom",
+    "answer": "c"
+  },
+  {
+    "question": "What age group is most likely to develop presbyopia?",
+    "a": "Children under 5 years old",
+    "b": "Adolescents between 13-18 years old",
+    "c": "Adults over 40 years old",
+    "d": "Elderly individuals over 70 years old",
+    "answer": "c"
+  },
+  {
+    "question": "Which of the following is NOT a recommendation for preventing visual impairment?",
+    "a": "Keeping the environment clean and avoiding overcrowding",
+    "b": "Educating the public about the causes and effects of visual impairment",
+    "c": "Using spectacles without specialist recommendation",
+    "d": "Promoting regular eye examinations",
+    "answer": "c"
+  },
+  {
+    "question": "When were children with learning disabilities first identified?",
+    "a": "After other categories of children with disabilities",
+    "b": "Before other categories of children with disabilities",
+    "c": "At the same time as other categories of children with disabilities",
+    "d": "Their identification is not historically significant",
+    "answer": "a"
+  },
+  {
+    "question": "According to Kirk (1963), what is learning disabilities attributed to?",
+    "a": "Educational or cultural deprivation",
+    "b": "Cerebral dysfunction or emotional/behavioral disturbance",
+    "c": "Generalized retardation",
+    "d": "Sensory loss",
+    "answer": "b"
+  },
+  {
+    "question": "What did Gallagher (1966) suggest about learning disabilities?",
+    "a": "They are primarily caused by educational deprivation",
+    "b": "They require an instructional program appropriate to the nature of the deviation",
+    "c": "They result from a generalized incapacity to learn",
+    "d": "They are not related to developmental disparity",
+    "answer": "b"
+  },
+  {
+    "question": "How did Johnson and Mykleburst (1967) define learning disabilities?",
+    "a": "As primarily an emotional disturbance",
+    "b": "As a neurological dysfunction or brain impairment",
+    "c": "As a generalized incapacity to learn",
+    "d": "As a result of cultural or economic disadvantage",
+    "answer": "b"
+  },
+  {
+    "question": "What did Lerner suggest about children with learning disabilities?",
+    "a": "They have normal sensory abilities",
+    "b": "They do not have mental retardation",
+    "c": "They have normal developmental processes",
+    "d": "They have no difficulties in learning processes",
+    "answer": "b"
+  },
+  {
+    "question": "According to the Federal Definition, what does learning disabilities NOT include?",
+    "a": "Brain injury",
+    "b": "Dyslexia",
+    "c": "Mental retardation",
+    "d": "Visual, hearing, or motor handicaps",
+    "answer": "d"
+  },
+  {
+    "question": "According to the NJCLD, what does learning disabilities refer to?",
+    "a": "A homogeneous group of disorders",
+    "b": "Disorders due to environmental influences",
+    "c": "Difficulties in social interactions",
+    "d": "Significant difficulties in specific abilities",
+    "answer": "d"
+  },
+  {
+    "question": "What is a characteristic of a child with learning disabilities according to the NJCLD?",
+    "a": "Inability to regulate behavior",
+    "b": "Intrinsic to the individual",
+    "c": "Concomitant with other handicapping conditions",
+    "d": "Primarily the result of cultural differences",
+    "answer": "b"
+  },
+  {
+    "question": "What is required for a child to have a specific learning disability according to the definitions?",
+    "a": "High achievement in all areas of learning",
+    "b": "No disparity between achievement and intellectual ability",
+    "c": "Failure to achieve age-appropriate ability level in specific areas",
+    "d": "No neurological dysfunction",
+    "answer": "c"
+  },
+  {
+    "question": "What is the primary difference between the Federal and NJCLD definitions of learning disabilities?",
+    "a": "Federal definition includes sensory impairments, NJCLD does not",
+    "b": "NJCLD definition includes cultural differences, Federal does not",
+    "c": "Federal definition includes environmental influences, NJCLD does not",
+    "d": "NJCLD definition includes social interactions, Federal does not",
+    "answer": "a"
+  },
+  {
+    "question": "Which historical figure worked on 'Victor the wild boy of Averyon'?",
+    "a": "Jean Itard",
+    "b": "Kirk",
+    "c": "Gallagher",
+    "d": "Lerner",
+    "answer": "a"
+  },
+  {
+    "question": "According to Tredgold, what is mental retardation?",
+    "a": "A state of incomplete mental development",
+    "b": "A neurological disorder",
+    "c": "A genetic condition",
+    "d": "A psychological condition",
+    "answer": "a"
+  },
+  {
+    "question": "What is the prevalence of mental retardation according to the U.S. Department of Education?",
+    "a": "10.6% of the general population",
+    "b": "1% of the total school-age population",
+    "c": "3% of the general population",
+    "d": "611,878 students",
+    "answer": "b"
+  },
+  {
+    "question": "Which of the following is NOT a prenatal cause of mental retardation?",
+    "a": "Premature delivery",
+    "b": "Maternal age",
+    "c": "Head injury",
+    "d": "Chromosomal disorders",
+    "answer": "c"
+  },
+  {
+    "question": "Which educational programme advocates no discrimination against children with exceptional needs?",
+    "a": "Special School",
+    "b": "Integrated School",
+    "c": "Inclusive Education",
+    "d": "Resource Room",
+    "answer": "c"
+  },
+  {
+    "question": "What is the most common cause of visual impairment?",
+    "a": "Cataract",
+    "b": "Diabetes",
+    "c": "Old age",
+    "d": "Infections",
+    "answer": "a"
+  },
+  {
+    "question": "What characteristic is NOT associated with visual impairment?",
+    "a": "Poor-eye-hand coordination",
+    "b": "Complaining of dizziness and headaches",
+    "c": "High achievement in academic tasks",
+    "d": "Frequent rubbing or brushing of eyes",
+    "answer": "c"
+  },
+  {
+    "question": "Which historical figure described children with learning disabilities as 'not blind' but unable to 'see'?",
+    "a": "Kirk",
+    "b": "Batman",
+    "c": "Gallagher",
+    "d": "Lerner",
+    "answer": "d"
+  },
+  {
+    "question": "Which of the following is not a behavioral manifestation that can be observed in children with learning disabilities?",
+    "a": "Hyperactivity",
+    "b": "Withdrawal syndrome",
+    "c": "Advanced cognitive skills",
+    "d": "Perseveration",
+    "answer": "c"
+  },
+  {
+    "question": "What characteristic refers to an unbalanced emotional status observed in some children with learning disabilities?",
+    "a": "Hyperactivity",
+    "b": "Emotional instability",
+    "c": "Low frustration tolerance",
+    "d": "Perseveration",
+    "answer": "b"
+  },
+  {
+    "question": "Which characteristic refers to the habit or attitude of isolating or distancing from others?",
+    "a": "Attention deficit",
+    "b": "Clumsiness/awkwardness",
+    "c": "Withdrawal syndrome",
+    "d": "Perseveration",
+    "answer": "c"
+  },
+  {
+    "question": "What characteristic is described as focusing attention on a particular task longer than is necessary?",
+    "a": "Low frustration tolerance",
+    "b": "Perseveration",
+    "c": "Acting on impulse",
+    "d": "Withdrawal syndrome",
+    "answer": "b"
+  },
+  {
+    "question": "Which characteristic involves reacting to a stimulus without having any thought over it?",
+    "a": "Perseveration",
+    "b": "Acting on impulse",
+    "c": "Low frustration tolerance",
+    "d": "Hyperactivity",
+    "answer": "b"
+  },
+  {
+    "question": "What is one example of perceptual motor impairments?",
+    "a": "Poor academic achievement",
+    "b": "Low frustration tolerance",
+    "c": "Clumsiness and awkwardness",
+    "d": "Acting on impulse",
+    "answer": "c"
+  },
+  {
+    "question": "What characteristic involves problems of memorization and recall of past lessons or skills?",
+    "a": "Perseveration",
+    "b": "Cognitive information processing",
+    "c": "Hyperactivity",
+    "d": "Withdrawal syndrome",
+    "answer": "b"
+  },
+  {
+    "question": "Which characteristic is a strong indication that maturational delay plays a major role in the causes of learning disabilities?",
+    "a": "Acting on impulse",
+    "b": "Emotional instability",
+    "c": "Clumsiness and awkwardness",
+    "d": "Withdrawal syndrome",
+    "answer": "c"
+  },
+  {
+    "question": "What is a specific type of learning disability mentioned in the text?",
+    "a": "Advanced cognitive skills disorder",
+    "b": "Oral language difficulties",
+    "c": "Social skills impairment",
+    "d": "Physical coordination disorder",
+    "answer": "b"
+  },
+  {
+    "question": "Which cause of learning disabilities is primarily attributed to lack of oxygen during birth?",
+    "a": "Neurological causes",
+    "b": "Maturational delay",
+    "c": "Biochemical imbalances",
+    "d": "Environmental causes",
+    "answer": "a"
+  },
+  {
+    "question": "What characteristic is described as focusing attention on a particular task longer than is necessary?",
+    "a": "Low frustration tolerance",
+    "b": "Perseveration",
+    "c": "Acting on impulse",
+    "d": "Withdrawal syndrome",
+    "answer": "b"
+  },
+  {
+    "question": "What is the term for the impairment in communication?",
+    "a": "Language acquisition",
+    "b": "Communication breakdown",
+    "c": "Speech disorder",
+    "d": "Communication disorder",
+    "answer": "d"
+  },
+  {
+    "question": "What is the primary focus of the Federal Definition of learning disabilities?",
+    "a": "Environmental influences",
+    "b": "Sensory impairments",
+    "c": "Central nervous system dysfunction",
+    "d": "Educational or cultural deprivation",
+    "answer": "c"
+  },
+  {
+    "question": "According to the NJCLD, what does learning disabilities refer to?",
+    "a": "Disabilities due to environmental influences",
+    "b": "Difficulties in social interactions",
+    "c": "Significant difficulties in specific abilities",
+    "d": "A homogeneous group of disorders",
+    "answer": "c"
+  },
+  {
+    "question": "What is the primary focus of the definitions of learning disabilities?",
+    "a": "Behavioural characteristics",
+    "b": "Environmental influences",
+    "c": "Intrinsic factors",
+    "d": "Educational achievement",
+    "answer": "c"
+  },
+  {
+    "question": "What distinguishes learning disabilities from other conditions?",
+    "a": "High academic achievement",
+    "b": "Inability to learn basic skills",
+    "c": "Presence of behavioural characteristics",
+    "d": "Extrinsic causes",
+    "answer": "b"
+  },
+  {
+    "question": "What is the characteristic manifestation of children with learning disabilities according to the NJCLD?",
+    "a": "Social interaction difficulties",
+    "b": "Central nervous system dysfunction",
+    "c": "Significant difficulties in specific abilities",
+    "d": "Behavioural disorders",
+    "answer": "c"
+  },
+  {
+    "question": "Which characteristic is NOT associated with children having learning disabilities?",
+    "a": "High frustration tolerance",
+    "b": "Withdrawal syndrome",
+    "c": "Perceptual motor impairments",
+    "d": "Differential intelligence",
+    "answer": "a"
+  },
+  {
+    "question": "What term describes the tendency of children with learning disabilities to fix attention on a task longer than necessary?",
+    "a": "Attention deficit",
+    "b": "Perseveration",
+    "c": "Acting on impulse",
+    "d": "Hyperactivity",
+    "answer": "b"
+  },
+  {
+    "question": "What is one way children with learning disabilities may exhibit cognitive information processing problems?",
+    "a": "Difficulty in memorization",
+    "b": "High academic achievement",
+    "c": "Strong organisational skills",
+    "d": "Excellent meta-cognitive functions",
+    "answer": "a"
+  },
+  {
+    "question": "Which characteristic is NOT commonly observed in children with learning disabilities?",
+    "a": "High attention span",
+    "b": "Poor academic achievement",
+    "c": "Perceptual motor impairments",
+    "d": "Low frustration tolerance",
+    "answer": "a"
+  },
+  {
+    "question": "What distinguishes children with learning disabilities from those with mental retardation?",
+    "a": "Hyperactivity",
+    "b": "Behavioural disorders",
+    "c": "Above-average intelligence",
+    "d": "Inability to focus",
+    "answer": "c"
+  },
+  {
+    "question": "What distinguishes children with learning disabilities from those with emotional disturbances?",
+    "a": "Poor academic achievement",
+    "b": "Perceptual motor impairments",
+    "c": "Presence of behavioural characteristics",
+    "d": "High frustration tolerance",
+    "answer": "c"
+  },
+  {
+    "question": "What distinguishes children with learning disabilities from those with sensory impairments?",
+    "a": "Cognitive information processing problems",
+    "b": "Perceptual motor impairments",
+    "c": "Behavioural disorders",
+    "d": "Inability to focus",
+    "answer": "a"
+  },
+  {
+    "question": "Which of the following is NOT listed as a specific type of learning disability?",
+    "a": "Oral language difficulties",
+    "b": "Mathematical difficulties",
+    "c": "Reading",
+    "d": "Writing and spelling",
+    "answer": "b"
+  },
+  {
+    "question": "What is considered a presumed cause of learning disabilities according to the text?",
+    "a": "Maturational delay",
+    "b": "Biochemical imbalances",
+    "c": "Neurological dysfunction",
+    "d": "Genetic abnormalities",
+    "answer": "c"
+  },
+  {
+    "question": "Which of the following is NOT considered a neurological cause of learning disabilities?",
+    "a": "Brain injury",
+    "b": "Maturational delay",
+    "c": "Lack of oxygen during birth",
+    "d": "Disease",
+    "answer": "b"
+  },
+  {
+    "question": "What is maturational delay connected to?",
+    "a": "Environmental influences",
+    "b": "Neurological imbalance",
+    "c": "Genetic abnormalities",
+    "d": "Biochemical imbalances",
+    "answer": "b"
+  },
+  {
+    "question": "According to the text, what has been speculated as a cause of hyperactivity and learning problems?",
+    "a": "Genetic abnormalities",
+    "b": "Biochemical imbalances",
+    "c": "Neurological dysfunction",
+    "d": "Environmental influences",
+    "answer": "b"
+  },
+  {
+    "question": "What factor has been found to be one of the major causes of learning disabilities?",
+    "a": "Biochemical imbalances",
+    "b": "Maturational delay",
+    "c": "Neurological dysfunction",
+    "d": "Genetic abnormalities",
+    "answer": "d"
+  },
+  {
+    "question": "What is listed as an example of environmental influences on learning disabilities?",
+    "a": "Genetic abnormalities",
+    "b": "Maturational delay",
+    "c": "Lack of motivation",
+    "d": "Neurological dysfunction",
+    "answer": "c"
+  },
+  {
+    "question": "Which of the following is NOT considered an environmental influence on learning disabilities?",
+    "a": "Lead poisoning",
+    "b": "Parental abuse",
+    "c": "Genetic abnormalities",
+    "d": "Smoking",
+    "answer": "c"
+  },
+  {
+    "question": "What is a common characteristic of children with autism spectrum disorders (ASD) related to eye contact?",
+    "a": "They maintain direct eye contact with others.",
+    "b": "They avoid looking at people's faces.",
+    "c": "They often stare at others intensely.",
+    "d": "They frequently initiate eye contact.",
+    "answer": "b"
+  },
+  {
+    "question": "Which behaviour is characteristic of children with ASD related to speech?",
+    "a": "They demonstrate advanced speech abilities.",
+    "b": "They are highly verbal and communicative.",
+    "c": "They have delayed speech development.",
+    "d": "They are fluent and articulate speakers.",
+    "answer": "c"
+  },
+  {
+    "question": "What type of behaviour do children with ASD commonly exhibit in social interactions?",
+    "a": "They are outgoing and sociable.",
+    "b": "They interact comfortably with their peers.",
+    "c": "They are withdrawn and avoid contact with others.",
+    "d": "They engage in group activities frequently.",
+    "answer": "c"
+  },
+  {
+    "question": "What is a characteristic play pattern of children with ASD?",
+    "a": "They enjoy playing with various toys.",
+    "b": "They play cooperatively with other children.",
+    "c": "They focus on specific parts of toys rather than the whole toy.",
+    "d": "They engage in imaginative play.",
+    "answer": "c"
+  },
+  {
+    "question": "What type of behaviour do children with ASD exhibit that involves repetitive actions?",
+    "a": "Sporadic actions unrelated to context",
+    "b": "Random movements with no specific pattern",
+    "c": "Purposeless movements such as hand flapping",
+    "d": "Predictable actions in response to stimuli",
+    "answer": "c"
+  },
+  {
+    "question": "What behaviour do children with ASD commonly display involving following specific routines?",
+    "a": "Flexibility in adapting to changes",
+    "b": "Resistance to changes in activities",
+    "c": "Preference for novel experiences",
+    "d": "Indifference to daily routines",
+    "answer": "b"
+  },
+  {
+    "question": "What term is used to describe the limited interest and focus exhibited by children with ASD?",
+    "a": "Diverse interests",
+    "b": "Broad range of activities",
+    "c": "Restricted behaviour",
+    "d": "Varied preferences",
+    "answer": "c"
+  },
+  {
+    "question": "What type of behaviour do children with ASD engage in that may result in self-injury?",
+    "a": "Safety-conscious activities",
+    "b": "Reckless behaviour",
+    "c": "Risk-taking activities",
+    "d": "Self-injurious behaviour",
+    "answer": "d"
+  },
+  {
+    "question": "How do children with ASD typically respond to sensory stimuli?",
+    "a": "They underreact to stimuli.",
+    "b": "They exhibit no response to stimuli.",
+    "c": "They overreact to sound and internal stimulation.",
+    "d": "They are indifferent to sensory input.",
+    "answer": "c"
+  },
+  {
+    "question": "What is the term used to describe the selective eating habits of children with ASD?",
+    "a": "Nutrition-conscious behaviour",
+    "b": "Healthy dietary choices",
+    "c": "Selective eating",
+    "d": "Varied food preferences",
+    "answer": "c"
+  },
+  {
+    "question": "What is one of the possible causes of ASD mentioned in the text?",
+    "a": "Proper development of the brain",
+    "b": "Lack of genetic factors",
+    "c": "Environmental factors only",
+    "d": "Abnormal levels of hormone in the brain",
+    "answer": "d"
+  },
+  {
+    "question": "According to the text, what brain region is linked to social processing and sight-based learning in children with ASD?",
+    "a": "Frontal lobes",
+    "b": "Parietal lobes",
+    "c": "Temporal lobes",
+    "d": "Occipital lobes",
+    "answer": "b"
+  },
+  {
+    "question": "What is one of the factors mentioned as contributing to ASD?",
+    "a": "Normal hormone levels",
+    "b": "Lack of chromosomal abnormalities",
+    "c": "Exposure to teratogens",
+    "d": "Genetic stability",
+    "answer": "c"
+  },
+  {
+    "question": "How does the text describe the typical development of language in children with ASD?",
+    "a": "Highly advanced language skills",
+    "b": "Rapid language acquisition",
+    "c": "Delayed language development",
+    "d": "Normal language milestones",
+    "answer": "c"
+  },
+  {
+    "question": "What term is used to describe the unusual behaviours exhibited by children with ASD?",
+    "a": "Typical behaviour",
+    "b": "Atypical behaviour",
+    "c": "Conventional behaviour",
+    "d": "Predictable behaviour",
+    "answer": "b"
+  },
+  {
+    "question": "What term is used to describe the group of conditions with similar characteristics that vary in actual behavioural patterns?",
+    "a": "Autism spectrum",
+    "b": "Behavioural spectrum",
+    "c": "Autistic disorders",
+    "d": "Behavioural disorders",
+    "answer": "a"
+  },
+  {
+    "question": "Which of the following is NOT identified as one of the five different groups within the autistic spectrum?",
+    "a": "Autism",
+    "b": "Sperger syndrome",
+    "c": "Dyslexia",
+    "d": "Pervasive developmental disorder – not otherwise specified (PDD-NOS)",
+    "answer": "c"
+  },
+  {
+    "question": "What is a common problem experienced by the majority of children with ASD related to attention?",
+    "a": "Hyperactivity",
+    "b": "Hypervigilance",
+    "c": "Inattention",
+    "d": "Hypersomnia",
+    "answer": "a"
+  },
+  {
+    "question": "Which of the following is NOT listed as a related condition accompanying ASD?",
+    "a": "Motor problems",
+    "b": "Eating disorders",
+    "c": "Allergic reactions",
+    "d": "Sleeping disorders",
+    "answer": "c"
+  },
+  {
+    "question": "What is a common problem experienced by children with ASD related to sleep?",
+    "a": "Excessive sleepiness",
+    "b": "Nocturnal awakenings",
+    "c": "Hypersomnia",
+    "d": "Insomnia",
+    "answer": "b"
+  },
+  {
+    "question": "What is a typical characteristic of the learning difficulties experienced by some children with ASD?",
+    "a": "Consistent performance across all skills",
+    "b": "High cognitive ability in all areas",
+    "c": "Even display of skills",
+    "d": "Lack of variation in skill performance",
+    "answer": "c"
+  },
+  {
+    "question": "According to the text, what is one of the crucial aspects of life affected by deficiencies in children with autism?",
+    "a": "Physical health",
+    "b": "Cognitive development",
+    "c": "Social interaction",
+    "d": "Fine motor skills",
+    "answer": "c"
+  },
+  {
+    "question": "What is one of the key educational focuses for children with autism spectrum disorders?",
+    "a": "Improving physical health",
+    "b": "Enhancing social interaction",
+    "c": "Encouraging isolation",
+    "d": "Limiting communication skills",
+    "answer": "b"
+  },
+  {
+    "question": "What is one of the implications for treatment mentioned in the text?",
+    "a": "Focus on exacerbating associated deficiencies",
+    "b": "Neglect family distress",
+    "c": "Provide a cure for autism",
+    "d": "Reduce associated deficiencies and family distress",
+    "answer": "d"
+  },
+  {
+    "question": "What is a recommended classroom strategy for teaching sessions for children with ASD?",
+    "a": "Long historical background",
+    "b": "Use of complex definitions",
+    "c": "Introduction of multiple topics simultaneously",
+    "d": "Brief historical background",
+    "answer": "d"
+  },
+  {
+    "question": "What term is used to describe children with various problems related to incomplete possession of limbs and skeletal features?",
+    "a": "Congenital anomalies",
+    "b": "Physical and health disorders",
+    "c": "Orthopedic impairments",
+    "d": "Neuromotor impairments",
+    "answer": "c"
+  },
+  {
+    "question": "Which of the following is NOT listed as an example of orthopedic impairments?",
+    "a": "Club foot",
+    "b": "Poliomyelitis",
+    "c": "Cerebral palsy",
+    "d": "Bone tuberculosis",
+    "answer": "c"
+  },
+  {
+    "question": "What system is primarily affected by neuromotor impairments?",
+    "a": "Musculoskeletal system",
+    "b": "Endocrine system",
+    "c": "Central nervous system",
+    "d": "Cardiovascular system",
+    "answer": "c"
+  },
+  {
+    "question": "According to the text, what do physical impairments typically involve?",
+    "a": "Only orthopedic impairments",
+    "b": "Only neuromotor impairments",
+    "c": "Elements of both orthopedic and neuromotor impairments",
+    "d": "Sensory impairments",
+    "answer": "c"
+  },
+  {
+    "question": "What is Traumatic Brain Injury (TBI) caused by?",
+    "a": "Internal factors",
+    "b": "Degenerative diseases",
+    "c": "External force or trauma",
+    "d": "Genetic mutations",
+    "answer": "c"
+  },
+  {
+    "question": "What are common risk factors for Traumatic Brain Injury?",
+    "a": "Participation in low-risk activities",
+    "b": "Lack of appropriate safety measures",
+    "c": "Avoidance of physical activities",
+    "d": "Previous brain trauma",
+    "answer": "b"
+  },
+  {
+    "question": "Which of the following is a symptom of Traumatic Brain Injury?",
+    "a": "Joint pain",
+    "b": "Memory loss",
+    "c": "Skin rash",
+    "d": "Hearing loss",
+    "answer": "b"
+  },
+  {
+    "question": "What educational support may be required for individuals with Traumatic Brain Injury?",
+    "a": "Assistive technology",
+    "b": "Physical therapy only",
+    "c": "Transition planning only",
+    "d": "No educational support needed",
+    "answer": "a"
+  },
+  {
+    "question": "What is the difference between Traumatic Brain Injury and Brain Injury?",
+    "a": "Traumatic Brain Injury involves external force, while Brain Injury does not",
+    "b": "Brain Injury is a specific type of Traumatic Brain Injury",
+    "c": "There is no difference between the two terms",
+    "d": "Traumatic Brain Injury involves internal factors, while Brain Injury involves external factors",
+    "answer": "a"
+  },
+  {
+    "question": "A student falls off the playground equipment and hits their head. What type of injury are they at risk for?",
+    "a": "Traumatic Brain Injury (TBI)",
+    "b": "Eye injury",
+    "c": "Broken bone",
+    "d": "Skin rash",
+    "answer": "a"
+  },
+  {
+    "question": "During a football game, a player receives a hard blow to the head. What type of injury should be assessed?",
+    "a": "Sprained ankle",
+    "b": "Traumatic Brain Injury (TBI)",
+    "c": "Bruised knee",
+    "d": "Sore throat",
+    "answer": "b"
+  },
+  {
+    "question": "What is one of the educational implications mentioned for children with physical and health impairments?",
+    "a": "Provision of health services",
+    "b": "Exclusion from social integration",
+    "c": "Reduction in the provision of educational activities",
+    "d": "Limited access to assistive technologies",
+    "answer": "a"
+  },
+  {
+    "question": "Which of the following is NOT listed as one of the general guidelines for providing education for children with physical and health impairments?",
+    "a": "Modifications of classroom setting",
+    "b": "Provision of necessary health services",
+    "c": "Reduction in duration of school activities",
+    "d": "Isolation from peers",
+    "answer": "d"
+  }
+]

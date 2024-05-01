@@ -340,4 +340,8 @@ body {
         max-width: 440px;
         margin-inline: auto;
     }
+
+    .nav-btns {
+        max-width: 440px;
+    }
 }

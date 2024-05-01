@@ -315,6 +315,7 @@ body {
     align-items: flex-start;
     flex-direction: column;
     color: white;
+    padding-block: 3rem;
 }
 
 .score-percent {
@@ -325,14 +326,13 @@ body {
     width: 50%;
     display: flex;
     align-items: flex-start;
-    justify-content: space-between;
+    justify-content: space-evenly;
     padding-block: 1.2rem;
     padding-inline: 1.2rem;
 }
 
 .comment-tile {
     width: 100%;
-    gap: 1rem;
 }
 
 @media (min-width: 768px) {
